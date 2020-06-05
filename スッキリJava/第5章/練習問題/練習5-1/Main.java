@@ -3,7 +3,7 @@ public class Main{
     introduceOneself();
 }
  public static void introduceOneself() {
-   String name = "拓人";
+   String name = "一郎";
    int age = 21;
    double height = 175.1;
    char zodiac = '寅';
